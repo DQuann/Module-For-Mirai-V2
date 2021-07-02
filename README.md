@@ -1,4 +1,8 @@
 <br />
+<a href="https://duyquan.tk/">
+        <img src="https://i.imgur.com/uN4IpQE.jpg" alt="Logo">
+    </a>
+<h3 align="center">Bên dưới là README của MiraiProject !</h3>
 <p align="center">
     <a href="https://github.com/miraiPr0ject/miraiv2">
         <img src="https://i.imgur.com/sxW5AWa.png" alt="Logo">
@@ -7,7 +11,7 @@
 <h3 align="center">MiraiBot</h3>
 
 <p align="center">
-    A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.
+    A simple Facebook Messenger Bot made by CatalizCS and SpermLord.
     <br />
     <br />
     <a href="https://github.com/miraiPr0ject/miraiv2/issues">Report Bug</a>
