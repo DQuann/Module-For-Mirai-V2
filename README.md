@@ -1,6 +1,6 @@
 <br />
 <a href="https://duyquan.tk/">
-        <img src="https://i.imgur.com/uN4IpQE.jpg" alt="Logo">
+        <img src="https://i.imgur.com/uN4IpQE.jpg" alt="Logo NDQ">
     </a>
 <h3 align="center">Bên dưới là README của MiraiProject !</h3>
 <p align="center">
@@ -40,7 +40,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## introduce
+## Introduce
 <p><strong>MIRAIPROJECT LÀ GÌ?</strong></p>
 <br />
 <p>
