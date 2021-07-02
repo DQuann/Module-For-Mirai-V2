@@ -11,7 +11,7 @@
 
 # Lưu ý
 - **Đây là các module xàm cho ae đang xài MiraiBot, không nhằm mục đích thương mại hay gì - tuy khá ngu về code nhưng cũng muốn đóng góp một chút cho bot trở nên vjppro hơn - Cảm ơn bạn đã đọc :3**
-- **Credits được ghi theo nguồn của source gốc ! Không edit lại !.**
+- **Đây là Module MOD ! Credits được ghi theo nguồn của source gốc ! Không edit lại !.**
 - **Các modules mod đã xin phép BQT MiraiProject & xin phép các coder khác !**
 - **Bạn và bot bạn có thể lên danh sánh gban nếu vi phạm các điều trên !**
 
@@ -37,11 +37,11 @@
 - **hi** - Bot sẽ chào lại khi gõ 'hi': [hi.js](hi.js)
 # Tác Giả
 - **MiraiProject** - [GitHub](https://github.com/miraipr0ject/miraiv2) - [Website](https://miraiproject.tk/)
-- **Vũ Nguyễn Thành Tâm** - [GitHub](https://github.com/catalizcs) - [Facebook](https://www.facebook.com/catalizcs)
-- **Nguyễn Mậu Minh** - [GitHub](https://github.com/ProCoderMew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
+- **CatalizCS** - [GitHub](https://github.com/catalizcs) - [Facebook](https://www.facebook.com/catalizcs)
+- **ProCoderMew** - [GitHub](https://github.com/miraiPr0ject/Module-Mew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
 - **Nguyễn Duy Quân** - [GitHub](https://github.com/vipproeditor) - [Facebook](https://www.facebook.com/duyquan.social)
 - **Lê Đức Thuận** - [Facebook](https://www.facebook.com/duyquan.social)
 
 # License
-- **README By ProCoderMew** - [Github](https://www.github.com/procodermew)
+- **README By ProCoderMew** - [Github](https://github.com/miraiPr0ject/Module-Mew)
 - [LICENSE](LICENSE)
