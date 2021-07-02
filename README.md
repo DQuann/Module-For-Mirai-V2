@@ -7,11 +7,12 @@
 	<a href="https://github.com/vipproeditor/Module-Mod-For-Mirai-V2/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vipproeditor/Module-Mod-For-Mirai-V2"></a>
 </p>
 
-# Module mod lại cho [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
+# Module mod cho [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 
-# Cảnh Báo
+# Lưu ý
+- **Đây là các module xàm cho ae đang xài MiraiBot, không nhằm mục đích thương mại hay gì - tuy khá ngu về code nhưng cũng muốn đóng góp một chút cho bot trở nên vjppro hơn - Cảm ơn bạn đã đọc :3**
 - **Credits được ghi theo nguồn của source gốc ! Không edit lại !.**
-- **Các modules mod đã xin phép BQT MiraiProject !**
+- **Các modules mod đã xin phép BQT MiraiProject & xin phép các coder khác !**
 - **Bạn và bot bạn có thể lên danh sánh gban nếu vi phạm các điều trên !**
 
 # Các thay đổi (Cập nhật: 02/07/2021)
@@ -22,6 +23,8 @@
 	<p>- 02/07/2021 - Update module Rules.</p>
         <p>- 02/07/2021 - Update module Botngu.</p>
         <p>- 02/07/2021 - Update module BotnguV2.</p>
+        <p>- 02/07/2021 - Update module Hi.</p>
+ 
 </details>
 
 # Vị Trí Lưu
@@ -31,6 +34,7 @@
 - **rules** - Danh sách điều khoản sử dụng bot, luật box: [rules.js](rules.js)
 - **botngu** - Bot sẽ phản hồi khi bị chửi: [botngu.js](botngu.js)
 - **botnguv2** - Bot sẽ kick người dùng khi bị chửi: [botnguv2.js](botnguv2.js)
+- **hi** - Bot sẽ chào lại khi gõ 'hi': [hi.js](hi.js)
 # Tác Giả
 - **MiraiProject** - [GitHub](https://github.com/miraipr0ject/miraiv2) - [Website] (https://miraiproject.tk/)
 - **Vũ Nguyễn Thành Tâm** - [GitHub](https://github.com/catalizcs) - [Facebook](https://www.facebook.com/catalizcs)
