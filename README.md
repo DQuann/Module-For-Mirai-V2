@@ -36,7 +36,7 @@
 - **botnguv2** - Bot sẽ kick người dùng khi bị chửi: [botnguv2.js](botnguv2.js)
 - **hi** - Bot sẽ chào lại khi gõ 'hi': [hi.js](hi.js)
 # Tác Giả
-- **MiraiProject** - [GitHub](https://github.com/miraipr0ject/miraiv2) - [Website] (https://miraiproject.tk/)
+- **MiraiProject** - [GitHub](https://github.com/miraipr0ject/miraiv2) - [Website](https://miraiproject.tk/)
 - **Vũ Nguyễn Thành Tâm** - [GitHub](https://github.com/catalizcs) - [Facebook](https://www.facebook.com/catalizcs)
 - **Nguyễn Mậu Minh** - [GitHub](https://github.com/ProCoderMew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
 - **Nguyễn Duy Quân** - [GitHub](https://github.com/vipproeditor) - [Facebook](https://www.facebook.com/duyquan.social)
