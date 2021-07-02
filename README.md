@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-	<a href="https://github.com/vipproeditor/Module-Mod-For-Mirai-V2/commits" target="_blank"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/vipproeditor/Module-Mod-For-Mirai-V2.svg?label=commit&style=flat-square"></a>
 	<a href="https://github.com/vipproeditor/Module-Mod-For-Mirai-V2/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/vipproeditor/Module-Mod-For-Mirai-V2"></a>
 	<a href="https://github.com/vipproeditor/Module-Mod-For-Mirai-V2/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vipproeditor/Module-Mod-For-Mirai-V2"></a>
 </p>
@@ -33,11 +32,12 @@
 - **botngu** - Bot sẽ phản hồi khi bị chửi: [botngu.js](botngu.js)
 - **botnguv2** - Bot sẽ kick người dùng khi bị chửi: [botnguv2.js](botnguv2.js)
 # Tác Giả
-- **Vũ Nguyễn Thành Tâm** - [GitHub](https://github.com/ProCoderMew) - [Facebook](https://www.facebook.com/catalizcs)
+- **MiraiProject** - [GitHub](https://github.com/miraipr0ject/miraiv2) - [Website] (https://miraiproject.tk/)
+- **Vũ Nguyễn Thành Tâm** - [GitHub](https://github.com/catalizcs) - [Facebook](https://www.facebook.com/catalizcs)
 - **Nguyễn Mậu Minh** - [GitHub](https://github.com/ProCoderMew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
 - **Nguyễn Duy Quân** - [GitHub](https://github.com/vipproeditor) - [Facebook](https://www.facebook.com/duyquan.social)
 - **Lê Đức Thuận** - [Facebook](https://www.facebook.com/duyquan.social)
 
 # License
-
+- **README By ProCoderMew** - [Github](https://www.github.com/procodermew)
 - [LICENSE](LICENSE)
