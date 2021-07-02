@@ -2,7 +2,7 @@ module.exports.config = {
     name: "hi",
     version: "1.0.2",
     hasPermssion: 0,
-    credits: "Lợi - Mod By Lê Đức Thuận",
+    credits: "Loi",
     description: "Bot sẽ chào lại nếu gõ 'Hi'",
     commandCategory: "general",
     usages: "",
