@@ -33,9 +33,10 @@
 - **botngu** - Bot sẽ phản hồi khi bị chửi: [botngu.js](botngu.js)
 - **botnguv2** - Bot sẽ kick người dùng khi bị chửi: [botnguv2.js](botnguv2.js)
 # Tác Giả
-- **CatalizCS** - [GitHub](https://github.com/ProCoderMew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
-- **ProCoderMew** - [GitHub](https://github.com/ProCoderMew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
+- **Vũ Nguyễn Thành Tâm** - [GitHub](https://github.com/ProCoderMew) - [Facebook](https://www.facebook.com/catalizcs)
+- **Nguyễn Mậu Minh** - [GitHub](https://github.com/ProCoderMew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
 - **Nguyễn Duy Quân** - [GitHub](https://github.com/vipproeditor) - [Facebook](https://www.facebook.com/duyquan.social)
+- **Lê Đức Thuận** - [Facebook](https://www.facebook.com/duyquan.social)
 
 # License
 
