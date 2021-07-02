@@ -39,9 +39,10 @@
 - **MiraiProject** - [GitHub](https://github.com/miraipr0ject/miraiv2) - [Website](https://miraiproject.tk/)
 - **CatalizCS** - [GitHub](https://github.com/catalizcs) - [Facebook](https://www.facebook.com/catalizcs)
 - **ProCoderMew** - [GitHub](https://github.com/miraiPr0ject/Module-Mew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
-- **Nguyễn Duy Quân** - [GitHub](https://github.com/DQuann) - [Facebook](https://www.facebook.com/duyquan.social)
+- **BossVirus** - [GitHub](https://github.com/bossvirus/modulesbyloi )
+- **Nguyễn Duy Quân** - [Facebook](https://www.facebook.com/duyquan.social)
 - **Lê Đức Thuận** - [Facebook](https://www.facebook.com/duyquan.social)
 
 # License
-- **README By ProCoderMew** - [Github](https://github.com/miraiPr0ject/Module-Mew)
+- **README Template By ProCoderMew** - [Github](https://github.com/miraiPr0ject/Module-Mew)
 - [LICENSE](LICENSE)
