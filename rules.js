@@ -2,8 +2,8 @@ module.exports.config = {
 	name: "rules",
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "Mirai Team - Mod một chút by Nguyễn Duy Quân",
-	description: "( ͡° ͜ʖ ͡°) ",
+	credits: "Mirai Team - NDQ",
+	description: "( Được mod từ module Penis của Mirai Source ) ",
 	commandCategory: "info",
 	cooldowns: 1
 };
