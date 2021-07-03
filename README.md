@@ -40,9 +40,9 @@
 - **CatalizCS** - [GitHub](https://github.com/catalizcs) - [Facebook](https://www.facebook.com/catalizcs)
 - **ProCoderMew** - [GitHub](https://github.com/miraiPr0ject/Module-Mew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
 - **BossVirus** - [GitHub](https://github.com/bossvirus/modulesbyloi )
+# Mod Modules
 - **Nguyễn Duy Quân** - [Facebook](https://www.facebook.com/duyquan.social)
 - **Lê Đức Thuận** - [Facebook](https://www.facebook.com/duyquan.social)
 
 # License
-- **README Template By ProCoderMew** - [Github](https://github.com/miraiPr0ject/Module-Mew)
 - [LICENSE](LICENSE)
