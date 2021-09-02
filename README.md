@@ -10,22 +10,22 @@
 # Module mod cho [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 
 # Lưu ý
-- **Mirai Project flop rồi :( | Đây làm cho vui chứ toàn bó xó không à, nếu có module khác ngon hơn thì hãy dùng của người đó đừng đánh giá hay cà khịa gì t nhé @@**
-- **Đây là các module đã mod xàm cho ae đang xài Mirai Bot, không nhằm mục đích thương mại hay gì - tuy khá ngu về code nhưng cũng muốn đóng góp một chút cho bot trở nên vjppro hơn - Cảm ơn bạn đã đọc :3**
+- **Mirai Project flop rồi :( Làm cho vui chứ nếu có module khác ngon hơn thì hãy dùng của người đó đừng đánh giá hay cà khịa gì t nhé ! Tạo git không phải để khoe khoang gì .@@**
+- **Tuy khá ngu về code nhưng cũng muốn đóng góp một chút cho bot trở nên vjppro hơn.**
 - **Credits được ghi theo nguồn của source gốc ! Không edit lại ! ( Trừ khi nó là của t =)) )**
-- **Các modules mod đã xin phép BQT MiraiProject & xin phép các coder khác !**
-- **Bạn và bot bạn có thể lên danh sánh gban nếu vi phạm các điều trên !**
+- **Các modules mod đã xin phép BQT MiraiProject ( Lúc chưa flop ) & xin phép các coder khác !**
+- **Bạn và bot bạn có thể lên danh sánh gban nếu vi phạm các điều trên ! ( Giờ bypass gban rồi trừ MeewMeew )**
 
-# Các thay đổi (Cập nhật: 02/07/2021)
+# Các thay đổi (Cập nhật: 02/09/2021)
 
 <details>
 	<summary>Xem các thay đổi.</summary>
 	<br>
 	<p>- 02/07/2021 - Update module Rules.</p>
-        <p>- 02/07/2021 - Update module Botngu.( MOD )</p>
-        <p>- 02/07/2021 - Update module BotnguV2.( MOD )</p>
+        <p>- 02/07/2021 - Update module Botngu.(MOD)</p>
+        <p>- 02/07/2021 - Update module BotnguV2.(MOD)</p>
         <p>- 02/07/2021 - Update module Hi.</p>
-        <p>- 02/09/2021 - Update module Adm. [ 2 Month ]</p>
+        <p>- 02/09/2021 - Update module Adm. [Lastest]</p>
 
  
 </details>
