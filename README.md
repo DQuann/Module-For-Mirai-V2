@@ -35,6 +35,7 @@
         <p>- 04/09/2021 - Update module Sao Mộc.</p>
         <p>- 04/09/2021 - Update module Sao Diêm Vương.</p>
         <p>- 04/09/2021 - Update module Sao Hải Vương.</p>
+        <p>- 04/09/2021 - Update module Mặt Trăng.</p>
         <p>- 04/09/2021 - Update module Bot.</p>
         <p>- 04/09/2021 - Update module Ig</p>
 
