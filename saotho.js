@@ -5,7 +5,7 @@ module.exports.config = {
   name: "saotho",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "Thanh Dz - Mod bởi Nguyễn Duy Quân",
+  credits: "Nguyễn Duy Quân",
   description: "Thông tin về các hành tinh trong hệ mặt trời",
   commandCategory: "Solar System",
   usages: "saotho",
