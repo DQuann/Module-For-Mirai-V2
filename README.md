@@ -25,7 +25,17 @@
         <p>- 02/07/2021 - Update module Botngu.(MOD)</p>
         <p>- 02/07/2021 - Update module BotnguV2.(MOD)</p>
         <p>- 02/07/2021 - Update module Hi.</p>
-        <p>- 02/09/2021 - Update module Adm. [Lastest]</p>
+        <p>- 02/09/2021 - Update module Adm.</p>
+        <p>- 04/09/2021 - Update module Mặt Trời</p>
+        <p>- 04/09/2021 - Update module Sao Kim.</p>
+        <p>- 04/09/2021 - Update module Sao Thủy.</p>
+        <p>- 04/09/2021 - Update module Trái Đất.</p>
+        <p>- 04/09/2021 - Update module Sao Hỏa.</p>
+        <p>- 04/09/2021 - Update module Sao Thổ.</p>
+        <p>- 04/09/2021 - Update module Sao Mộc.</p>
+        <p>- 04/09/2021 - Update module Sao Diêm Vương.</p>
+        <p>- 04/09/2021 - Update module Sao Hải Vương.</p>
+
 
  
 </details>
@@ -43,7 +53,9 @@
 - **MiraiProject** - [GitHub](https://github.com/miraipr0ject/miraiv2) - [Website](https://miraiproject.tk/)
 - **CatalizCS** - [GitHub](https://github.com/catalizcs) - [Facebook](https://www.facebook.com/catalizcs)
 - **ProCoderMew** - [GitHub](https://github.com/miraiPr0ject/Module-Mew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
-# Mod Modules
+# Mod Module
 - **Nguyễn Duy Quân** - [Facebook](https://www.facebook.com/duyquan.social)
+- **Special Thanks To Phan Trần Anh Tâm ( Supporter & Run Bot)** - [Facebook](https://www.facebook.com/duyquan.social)
+
 # License
 - [LICENSE](LICENSE)
