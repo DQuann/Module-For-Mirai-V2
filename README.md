@@ -22,9 +22,9 @@
 	<summary>Xem các thay đổi.</summary>
 	<br>
 	<p>- 02/07/2021 - Update module Rules.</p>
-        <p>- 02/07/2021 - Update module Botngu.(MOD)</p>
-        <p>- 02/07/2021 - Update module BotnguV2.(MOD)</p>
-        <p>- 02/07/2021 - Update module Hi.</p>
+        <p>- 02/07/2021 - Update module Botngu (MOD).</p>
+        <p>- 02/07/2021 - Update module BotnguV2 (MOD).</p>
+        <p>- 02/07/2021 - Update module Hi (MOD).</p>
         <p>- 02/09/2021 - Update module Adm.</p>
         <p>- 04/09/2021 - Update module Mặt Trời</p>
         <p>- 04/09/2021 - Update module Sao Kim.</p>
