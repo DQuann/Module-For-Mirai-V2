@@ -35,6 +35,9 @@
         <p>- 04/09/2021 - Update module Sao Mộc.</p>
         <p>- 04/09/2021 - Update module Sao Diêm Vương.</p>
         <p>- 04/09/2021 - Update module Sao Hải Vương.</p>
+        <p>- 04/09/2021 - Update module Bot.</p>
+        <p>- 04/09/2021 - Update module Ig</p>
+
 
 
  
@@ -49,6 +52,18 @@
 - **botnguv2** - Bot sẽ kick người dùng khi bị chửi: [botnguv2.js](botnguv2.js)
 - **hi** - Bot sẽ chào lại khi gõ 'hi': [hi.js](hi.js)
 - **adm** - Thông tin người điều hành bot ( không kèm ảnh ): [adm.js](adm.js)
+- **mattroi** - Thông tin về mặt trời: [mattroi.js](mattroi.js)
+- **saokim** - Thông tin về sao kim: [saokim.js](saokim.js)
+- **saothuy** - Thông tin về sao thủy: [saothuy.js](saothuy.js)
+- **traidat** - Thông tin về trái đất: [traidat.js](traidat.js)
+- **saohoa** - Thông tin về sao hỏa: [saohoa.js](saohoa.js)
+- **saotho** - Thông tin về sao thổ: [saotho.js](saotho.js)
+- **saomoc** - Thông tin về sao mộc: [saomoc.js](saomoc.js)
+- **saodiemvuong** - Thông tin về sao diêm vương: [saodiemvuong.js](saodiemvuong.js)
+- **saohaivuong** - Thông tin về sao hải vương: [saohaivuong.js](saohaivuong.js)
+- **mattrang** - Thông tin về mặt trăng: [mattrang.js](mattrang.js)
+- **bot** - Thông tin phần cứng và file bot đang sử dụng (tự config) (có kèm gif): [mattroi.js](mattroi.js)
+- **ig** - Random ảnh từ Instagram: [mattroi.js](mattroi.js)
 # Tác Giả
 - **MiraiProject** - [GitHub](https://github.com/miraipr0ject/miraiv2) - [Website](https://miraiproject.tk/)
 - **CatalizCS** - [GitHub](https://github.com/catalizcs) - [Facebook](https://www.facebook.com/catalizcs)
