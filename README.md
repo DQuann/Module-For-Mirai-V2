@@ -12,7 +12,7 @@
 # Lưu ý
 - **Mirai Project flop rồi :( Làm cho vui chứ nếu có module khác ngon hơn thì hãy dùng của người đó đừng đánh giá hay cà khịa gì t nhé ! Tạo git không phải để khoe khoang gì .@@**
 - **Tuy khá ngu về code nhưng cũng muốn đóng góp một chút cho bot trở nên vjppro hơn.**
-- **Credits được ghi theo nguồn của source gốc ! Không edit lại ! ( Trừ khi nó là của t =)) )**
+- **Xin đừng sửa credit của module kể cả module mod - Hoặc nếu bạn không có văn hóa như Hà Mạc Trường Giang! **
 - **Các modules mod đã xin phép BQT MiraiProject ( Lúc chưa flop ) & xin phép các coder khác !**
 - **Bạn và bot bạn có thể lên danh sánh gban nếu vi phạm các điều trên ! ( Giờ bypass gban rồi trừ MeewMeew )**
 
