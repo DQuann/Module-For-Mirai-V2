@@ -62,8 +62,8 @@
 - **saodiemvuong** - Thông tin về sao diêm vương: [saodiemvuong.js](saodiemvuong.js)
 - **saohaivuong** - Thông tin về sao hải vương: [saohaivuong.js](saohaivuong.js)
 - **mattrang** - Thông tin về mặt trăng: [mattrang.js](mattrang.js)
-- **bot** - Thông tin phần cứng và file bot đang sử dụng (tự config) (có kèm gif): [mattroi.js](mattroi.js)
-- **ig** - Random ảnh từ Instagram: [mattroi.js](mattroi.js)
+- **bot** - Thông tin phần cứng và file bot đang sử dụng (tự config) (có kèm gif): [bot.js](bot.js)
+- **ig** - Random ảnh từ Instagram: [ig.js](ig.js)
 # Tác Giả
 - **MiraiProject** - [GitHub](https://github.com/miraipr0ject/miraiv2) - [Website](https://miraiproject.tk/)
 - **CatalizCS** - [GitHub](https://github.com/catalizcs) - [Facebook](https://www.facebook.com/catalizcs)
