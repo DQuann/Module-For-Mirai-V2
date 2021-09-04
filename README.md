@@ -54,8 +54,8 @@
 - **CatalizCS** - [GitHub](https://github.com/catalizcs) - [Facebook](https://www.facebook.com/catalizcs)
 - **ProCoderMew** - [GitHub](https://github.com/miraiPr0ject/Module-Mew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
 # Mod Module
-- **Nguyễn Duy Quân** - [Website(https://duyquanprofile.tk/) - [Facebook](https://www.facebook.com/duyquan.social)
-- **Special Thanks To Phan Trần Anh Tâm ( Supporter & Run Bot)** - [Facebook](https://www.facebook.com/100044315850653 )
+- **Nguyễn Duy Quân** - [Website](https://duyquanprofile.tk/) - [Facebook](https://www.facebook.com/duyquan.social)
+- **Special Thanks To Phan Trần Anh Tâm ( Supporter & Run Bot)** - [Facebook](https://www.facebook.com/100044315850653)
 
 # License
 - [LICENSE](LICENSE)
