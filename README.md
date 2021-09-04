@@ -16,7 +16,7 @@
 - **Các modules mod đã xin phép BQT MiraiProject ( Lúc chưa flop ) & xin phép các coder khác !**
 - **Bạn và bot bạn có thể lên danh sánh gban nếu vi phạm các điều trên ! ( Giờ bypass gban rồi trừ MeewMeew )**
 
-# Các thay đổi (Cập nhật: 02/09/2021)
+# Các thay đổi (Cập nhật: 04/09/2021)
 
 <details>
 	<summary>Xem các thay đổi.</summary>
