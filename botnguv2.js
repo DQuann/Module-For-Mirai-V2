@@ -2,7 +2,7 @@ module.exports.config = {
     name: "noprefix",
     version: "1.0.1",
     hasPermssion: 0,
-    credits: "ProCoderMew",
+    credits: "ProCoderMew - Mod By Lê Đức Thuận",
     description: "Nói bot ngu đi - ăn ban",
     commandCategory: "noprefix",
     usages: "",
