@@ -7,7 +7,7 @@
 	<a href="https://github.com/DQuann/Module-Mod-For-Mirai-V2/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vipproeditor/Module-Mod-For-Mirai-V2"></a>
 </p>
 
-# Module mod cho [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
+# Module For [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 
 # Lưu ý
 - **Các anh em trong CFC đọc giúp nhé. Không lại bảo t procoder :(** 
