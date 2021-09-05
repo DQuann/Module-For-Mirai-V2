@@ -1,4 +1,5 @@
 /** Nói thẳng ra là cái này khác mẹ gì rules đâu =)) **/
+/** Mod lại module "bot.js" nếu muốn nó hiển thị ảnh **/
 module.exports.config = {
 	name: "adm",
 	version: "1.0.0",
