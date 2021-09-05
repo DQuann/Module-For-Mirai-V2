@@ -3,20 +3,20 @@
 </h1>
 
 <p align="center">
-	<a href="https://github.com/vipproeditor/Module-Mod-For-Mirai-V2/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/vipproeditor/Module-Mod-For-Mirai-V2"></a>
-	<a href="https://github.com/vipproeditor/Module-Mod-For-Mirai-V2/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vipproeditor/Module-Mod-For-Mirai-V2"></a>
+	<a href="https://github.com/DQuann/Module-Mod-For-Mirai-V2/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/vipproeditor/Module-Mod-For-Mirai-V2"></a>
+	<a href="https://github.com/DQuann/Module-Mod-For-Mirai-V2/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vipproeditor/Module-Mod-For-Mirai-V2"></a>
 </p>
 
 # Module mod cho [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 
 # Lưu ý
-- **Mirai Project flop rồi :( Làm cho vui chứ nếu có module khác ngon hơn thì hãy dùng của người đó đừng đánh giá hay cà khịa gì t nhé ! Tạo git không phải để khoe khoang gì .@@**
+- **Các anh em trong CFC đọc giúp nhé. Không lại bảo t procoder :(** 
+- **Mirai Project flop rồi :( Làm cho vui chứ nếu có module khác ngon hơn thì hãy dùng của người đó đừng đánh giá hay cà khịa gì t nhé ! @@**
 - **Tuy khá ngu về code nhưng cũng muốn đóng góp một chút cho bot trở nên vjppro hơn.**
-- **Xin đừng sửa credit của module kể cả module mod - Hoặc nếu bạn không có văn hóa như Hà Mạc Trường Giang! **
+- **Xin đừng sửa credit của module kể cả module mod - Hãy tôn trọng người làm ra nó!.**
 - **Các modules mod đã xin phép BQT MiraiProject ( Lúc chưa flop ) & xin phép các coder khác !**
-- **Bạn và bot bạn có thể lên danh sánh gban nếu vi phạm các điều trên ! ( Giờ bypass gban rồi trừ MeewMeew )**
 
-# Các thay đổi (Cập nhật: 04/09/2021)
+# Các thay đổi (Cập nhật: 05/09/2021)
 
 <details>
 	<summary>Xem các thay đổi.</summary>
@@ -37,6 +37,8 @@
         <p>- 04/09/2021 - Update module Sao Hải Vương.</p>
         <p>- 04/09/2021 - Update module Bot.</p>
         <p>- 04/09/2021 - Update module Ig</p>
+        <p>- 05/09/2021 - Fix tất cả lỗi hiện có trong các module</p>
+
 
 
 
@@ -70,6 +72,7 @@
 # Mod Module
 - **Nguyễn Duy Quân** - [Website](https://duyquanprofile.tk/) - [Facebook](https://www.facebook.com/duyquan.social)
 - **Special Thanks To Phan Trần Anh Tâm ( Supporter & Run Bot)** - [Facebook](https://www.facebook.com/100044315850653)
+- **Old Partner: Lê Đức Thuận**
 
 # License
 - [LICENSE](LICENSE)
