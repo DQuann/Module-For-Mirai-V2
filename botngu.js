@@ -2,7 +2,7 @@ module.exports.config = {
     name: "botngu",
     version: "1.0.2",
     hasPermssion: 0,
-    credits: "Loi",
+    credits: "Loi - Mod By Lê Đức Thuận",
     description: "Bot sẽ chửi lại nếu có người chửi nó - Mod lại từ noprefix",
     commandCategory: "general",
     usages: "",
