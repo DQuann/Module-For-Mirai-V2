@@ -38,6 +38,7 @@
         <p>- 04/09/2021 - Update module Bot.</p>
         <p>- 04/09/2021 - Update module Ig</p>
         <p>- 05/09/2021 - Fix tất cả lỗi hiện có trong các module</p>
+        <p>- 05/09/2021 - Module Solar System là bản chèn tay ( đã bị leak nên share ). Bản API thì anh em chờ nhé <3 !
 
 
 
