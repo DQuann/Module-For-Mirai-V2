@@ -2,7 +2,7 @@ module.exports.config = {
   name: "ig",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "PTAT & NDQ",
+  credits: "Phan Trần Anh Tâm",
   description: "Random ảnh gái trên Intagram",
   commandCategory: "Hình ảnh",
   usages: "ig",
