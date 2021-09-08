@@ -10,13 +10,12 @@
 # Modules For [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 
 # Lưu ý
-- **Không phải procoder. Làm cho vui chứ nếu có module khác ngon hơn thì hãy dùng của người đó đừng đánh giá hay cà khịa gì t nhé ! @@**
-- **Xin đừng sửa credit của module - Hãy tôn trọng người làm ra nó!.**
-
+- **Xài module xin đừng sửa credit của module - Hãy tôn trọng người làm ra nó!.**
+- **Nếu có module ngon hơn thì hãy dùng của người đó đừng đánh giá gì mình nhé <3 Module xàm xàm cho các anh em muốn nhiều lệnh nhưng ghét noprefix thoi.**
 # Các thay đổi (Cập nhật: 08/09/2021)
 
 <details>
-	<summary>Xem các thay đổi.</summary>
+	<summary>Xem các thay đổi ( Nhớ xem phần dưới kia nữa nhé ! )</summary>
 	<br>
 	<p>- 02/07/2021 - Update module Rules.</p>
         <p>- 02/09/2021 - Update module Adm.</p>
@@ -31,7 +30,7 @@
         <p>- 04/09/2021 - Update module Sao Hải Vương.</p>
         <p>- 04/09/2021 - Update module Bot.</p>
         <p>- 04/09/2021 - Update module Ig</p>
-        <p>- 05/09/2021 - Noti: Module Solar System là bản chèn tay + get ảnh từ wikipedia ! Do đã bị leak nên share, bản API sẽ không share !.</p>
+        <p>- 08/09/2021 - Noti ( Edit ): Module Solar System có bản API và gộp nhưng vì lý do bị chôm credit nên không share nữa.</p>
 	<p>- 08/09/2021 - Noti: Vì mình không sử dụng noprefix, muốn bot nhiều lệnh mới tạo ra các module riêng lẻ ! ( Bản gộp các coder khác code giúp mình nhé ).
 
 
@@ -44,7 +43,7 @@
 - Module command: [modules/commands](https://github.com/miraiPr0ject/miraiv2/tree/main/modules/commands)
 - Module event: [modules/events](https://github.com/miraiPr0ject/miraiv2/tree/main/modules/events)
 # Module
-- **rules** - Danh sách điều khoản sử dụng bot, luật box: [rules.js](rules.js)
+- **rules** - Danh sách điều khoản sử dụng bot, luật box ( nếu anh em dùng bypass module này rồi thì khỏi nhé ! module này đã code từ lâu ): [rules.js](rules.js)
 - **adm** - Thông tin người điều hành bot ( không kèm ảnh, có thể tự config lại từ module bot.js ): [adm.js](adm.js) or [bot.js](bot.js)
 - **mattroi** - Thông tin về mặt trời: [mattroi.js](mattroi.js)
 - **saokim** - Thông tin về sao kim: [saokim.js](saokim.js)
@@ -61,7 +60,7 @@
 - **MiraiProject** - [GitHub](https://github.com/miraipr0ject/miraiv2) - [Website](https://miraiproject.tk/)
 - **CatalizCS** - [GitHub](https://github.com/catalizcs) - [Facebook](https://www.facebook.com/catalizcs)
 - **ProCoderMew** - [GitHub](https://github.com/miraiPr0ject/Module-Mew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
-# Bản Quyền
+# Thành Viên
 - **Nguyễn Duy Quân** - [Website](https://duyquanprofile.tk/) - [Facebook](https://www.facebook.com/duyquan.social)
 - **Phan Trần Anh Tâm** - [Facebook](https://www.facebook.com/100044315850653)
 
