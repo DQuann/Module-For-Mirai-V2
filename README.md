@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://i.imgur.com/9VO6Bt5.jpg" alt="Mirai V2">
+	<img src="https://i.imgur.com/H1RkihC.jpg" alt="Mirai V2">
 </h1>
 
 <p align="center">
