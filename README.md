@@ -62,7 +62,7 @@
 - **MiraiProject** - [GitHub](https://github.com/miraipr0ject/miraiv2) - [Website](https://miraiproject.tk/)
 - **CatalizCS** - [GitHub](https://github.com/catalizcs) - [Facebook](https://www.facebook.com/catalizcs)
 - **ProCoderMew** - [GitHub](https://github.com/miraiPr0ject/Module-Mew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
-# Mod Module
+# Bản Quyền
 - **Nguyễn Duy Quân** - [Website](https://duyquanprofile.tk/) - [Facebook](https://www.facebook.com/duyquan.social)
 - **Phan Trần Anh Tâm** - [Facebook](https://www.facebook.com/100044315850653)
 
