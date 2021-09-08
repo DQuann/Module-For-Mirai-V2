@@ -3,28 +3,23 @@
 </h1>
 
 <p align="center">
-	<a href="https://github.com/DQuann/Module-Mod-For-Mirai-V2/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/vipproeditor/Module-Mod-For-Mirai-V2"></a>
-	<a href="https://github.com/DQuann/Module-Mod-For-Mirai-V2/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vipproeditor/Module-Mod-For-Mirai-V2"></a>
+	<a href="https://github.com/DQuann/Module-Mod-For-Mirai-V2/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/DQuann/Module-Mod-For-Mirai-V2"></a>
+	<a href="https://github.com/DQuann/Module-Mod-For-Mirai-V2/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/DQuann/Module-Mod-For-Mirai-V2"></a>
 </p>
 
-# Module For [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
+# Modules For [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 
 # Lưu ý
-- **Các anh em trong CFC đọc giúp nhé. Không lại bảo t procoder :(** 
-- **Mirai Project flop rồi :( Làm cho vui chứ nếu có module khác ngon hơn thì hãy dùng của người đó đừng đánh giá hay cà khịa gì t nhé ! @@**
-- **Tuy khá ngu về code nhưng cũng muốn đóng góp một chút cho bot trở nên vjppro hơn.**
-- **Xin đừng sửa credit của module kể cả module mod - Hãy tôn trọng người làm ra nó!.**
-- **Các modules mod đã xin phép BQT MiraiProject ( Lúc chưa flop ) & xin phép các coder khác !**
+- **Không phải procoder. Làm cho vui chứ nếu có module khác ngon hơn thì hãy dùng của người đó đừng đánh giá hay cà khịa gì t nhé ! @@**
+- **Vì mình không sử dụng noprefix, nên muốn bot nhiều lệnh mới tạo ra các module riêng lẻ**
+- **Xin đừng sửa credit của module - Hãy tôn trọng người làm ra nó!.**
 
-# Các thay đổi (Cập nhật: 05/09/2021)
+# Các thay đổi (Cập nhật: 08/09/2021)
 
 <details>
 	<summary>Xem các thay đổi.</summary>
 	<br>
 	<p>- 02/07/2021 - Update module Rules.</p>
-        <p>- 02/07/2021 - Update module Botngu (MOD).</p>
-        <p>- 02/07/2021 - Update module BotnguV2 (MOD).</p>
-        <p>- 02/07/2021 - Update module Hi (MOD).</p>
         <p>- 02/09/2021 - Update module Adm.</p>
         <p>- 04/09/2021 - Update module Mặt Trời</p>
         <p>- 04/09/2021 - Update module Sao Kim.</p>
@@ -37,8 +32,8 @@
         <p>- 04/09/2021 - Update module Sao Hải Vương.</p>
         <p>- 04/09/2021 - Update module Bot.</p>
         <p>- 04/09/2021 - Update module Ig</p>
-        <p>- 05/09/2021 - Fix tất cả lỗi hiện có trong các module</p>
-        <p>- 05/09/2021 - Module Solar System là bản chèn tay ( đã bị leak nên share ). Bản API thì anh em chờ nhé <3 !
+        <p>- 05/09/2021 - Noti: Module Solar System là bản chèn tay + get ảnh từ wikipedia ! Do đã bị leak nên share, bản API sẽ không share !.</p>
+	<p>- 08/09/2021 - Noti: Vì mình không sử dụng noprefix, muốn bot nhiều lệnh mới tạo ra các module riêng lẻ ! ( Bản gộp các coder khác code giúp mình nhé ).
 
 
 
@@ -51,10 +46,7 @@
 - Module event: [modules/events](https://github.com/miraiPr0ject/miraiv2/tree/main/modules/events)
 # Module
 - **rules** - Danh sách điều khoản sử dụng bot, luật box: [rules.js](rules.js)
-- **botngu** - Bot sẽ phản hồi khi bị chửi: [botngu.js](botngu.js)
-- **botnguv2** - Bot sẽ kick người dùng khi bị chửi: [botnguv2.js](botnguv2.js)
-- **hi** - Bot sẽ chào lại khi gõ 'hi': [hi.js](hi.js)
-- **adm** - Thông tin người điều hành bot ( không kèm ảnh ): [adm.js](adm.js)
+- **adm** - Thông tin người điều hành bot ( không kèm ảnh, có thể tự config lại từ module bot.js ): [adm.js](adm.js) or [bot.js](bot.js)
 - **mattroi** - Thông tin về mặt trời: [mattroi.js](mattroi.js)
 - **saokim** - Thông tin về sao kim: [saokim.js](saokim.js)
 - **saothuy** - Thông tin về sao thủy: [saothuy.js](saothuy.js)
@@ -72,8 +64,8 @@
 - **ProCoderMew** - [GitHub](https://github.com/miraiPr0ject/Module-Mew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
 # Mod Module
 - **Nguyễn Duy Quân** - [Website](https://duyquanprofile.tk/) - [Facebook](https://www.facebook.com/duyquan.social)
-- **Special Thanks To Phan Trần Anh Tâm ( Supporter & Run Bot)** - [Facebook](https://www.facebook.com/100044315850653)
-- **Old Partner: Lê Đức Thuận**
+- **Phan Trần Anh Tâm** - [Facebook](https://www.facebook.com/100044315850653)
 
 # License
+- **Special Thanks To Phan Trần Anh Tâm ( Supporter & Run Bot)**
 - [LICENSE](LICENSE)
