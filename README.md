@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-	<a href="https://github.com/DQuann/Module-Mod-For-Mirai-V2/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/DQuann/Module-Mod-For-Mirai-V2"></a>
-	<a href="https://github.com/DQuann/Module-Mod-For-Mirai-V2/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/DQuann/Module-Mod-For-Mirai-V2"></a>
+	<a href="https://github.com/DQuann/Module-For-Mirai-V2/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/DQuann/Module-For-Mirai-V2"></a>
+	<a href="https://github.com/DQuann/Module-For-Mirai-V2/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/DQuann/Module-For-Mirai-V2"></a>
 </p>
 
 # Modules For [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
