@@ -11,7 +11,6 @@
 
 # Lưu ý
 - **Không phải procoder. Làm cho vui chứ nếu có module khác ngon hơn thì hãy dùng của người đó đừng đánh giá hay cà khịa gì t nhé ! @@**
-- **Vì mình không sử dụng noprefix, nên muốn bot nhiều lệnh mới tạo ra các module riêng lẻ**
 - **Xin đừng sửa credit của module - Hãy tôn trọng người làm ra nó!.**
 
 # Các thay đổi (Cập nhật: 08/09/2021)
