@@ -10,7 +10,7 @@
 # Modules For [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 - **Xài module xin đừng sửa credit của module - Hãy tôn trọng người làm ra nó!.**
 - **Nếu có module ngon hơn thì hãy dùng của người đó đừng đánh giá gì mình nhé <3 Module xàm xàm cho các anh em muốn nhiều lệnh nhưng ghét noprefix thoi.**
-# Các thay đổi (Cập nhật: 08/09/2021)
+# Các thay đổi (Cập nhật: 13/09/2021)
 
 <details>
 	<summary>Xem các thay đổi ( Nhớ xem phần dưới kia nữa nhé ! )</summary>
