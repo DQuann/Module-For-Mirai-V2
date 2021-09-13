@@ -25,11 +25,11 @@
         <p>- 04/09/2021 - Update module Sao Thổ.</p>
         <p>- 04/09/2021 - Update module Sao Mộc.</p>
         <p>- 04/09/2021 - Update module Sao Diêm Vương.</p>
-        <p>- 04/09/2021 - Update module Sao Hải Vương.</p>
         <p>- 04/09/2021 - Update module Bot.</p>
         <p>- 04/09/2021 - Update module Ig</p>
         <p>- 08/09/2021 - Noti ( Edit ): Module Solar System có bản API và gộp nhưng vì lý do bị chôm credit nên không share nữa.</p>
 	<p>- 08/09/2021 - Noti: Vì mình không sử dụng noprefix, muốn bot nhiều lệnh mới tạo ra các module riêng lẻ ! ( Bản gộp các coder khác code giúp mình nhé ).
+        <p>- 13/09/2021 - Update module Sao Hải Vương ( up thiếu ).</p>
 
 
 
@@ -57,7 +57,6 @@
 # Tác Giả
 - **MiraiProject** - [GitHub](https://github.com/miraipr0ject/miraiv2) - [Website](https://miraiproject.tk/)
 - **CatalizCS** - [GitHub](https://github.com/catalizcs) - [Facebook](https://www.facebook.com/catalizcs)
-- **ProCoderMew** - [GitHub](https://github.com/miraiPr0ject/Module-Mew) - [Facebook](https://www.facebook.com/ProCoder.Mew)
 # Thành Viên
 - **Nguyễn Duy Quân** - [Website](https://duyquanprofile.tk/) - [Facebook](https://www.facebook.com/duyquan.social)
 - **Phan Trần Anh Tâm** - [Facebook](https://www.facebook.com/100044315850653)
