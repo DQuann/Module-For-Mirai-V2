@@ -10,7 +10,7 @@
 # Modules For [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 - **Xài module xin đừng sửa credit của module - Hãy tôn trọng người làm ra nó!.**
 - **Nếu có module ngon hơn thì hãy dùng của người đó đừng đánh giá gì mình nhé <3 Module xàm xàm cho các anh em muốn nhiều lệnh nhưng ghét noprefix thoi.**
-# Các thay đổi (Cập nhật: 13/09/2021)
+# Các thay đổi (Cập nhật: 14/09/2021)
 
 <details>
 	<summary>Xem các thay đổi ( Nhớ xem phần dưới kia nữa nhé ! )</summary>
@@ -27,9 +27,8 @@
         <p>- 04/09/2021 - Update module Sao Diêm Vương.</p>
         <p>- 04/09/2021 - Update module Bot.</p>
         <p>- 04/09/2021 - Update module Ig</p>
-        <p>- 08/09/2021 - Noti ( Edit ): Module Solar System có bản API và gộp nhưng vì lý do bị chôm credit nên không share nữa.</p>
-	<p>- 08/09/2021 - Noti: Vì mình không sử dụng noprefix, muốn bot nhiều lệnh mới tạo ra các module riêng lẻ ! ( Bản gộp các coder khác code giúp mình nhé ).
-        <p>- 13/09/2021 - Update module Sao Hải Vương ( up thiếu ).</p>
+        <p>- 13/09/2021 - Update module Sao Hải Vương ( Up thiếu ).</p>
+	<p>- 15/09/2021 - Noti: Module Solar System có bản API và gộp nhưng vì lý do bị chôm credit nên không share nữa.</p>
 
 
 
@@ -61,5 +60,4 @@
 - **Phan Trần Anh Tâm** - [Facebook](https://www.facebook.com/100044315850653)
 
 # License
-- **Special Thanks To Phan Trần Anh Tâm ( Supporter & Run Bot)**
 - [LICENSE](LICENSE)
