@@ -54,7 +54,6 @@
 - **ig** - Random ảnh từ Instagram: [ig.js](ig.js)
 # Tác Giả
 - **MiraiProject** - [GitHub](https://github.com/miraipr0ject/miraiv2) - [Website](https://miraiproject.tk/)
-- **CatalizCS** - [GitHub](https://github.com/catalizcs) - [Facebook](https://www.facebook.com/catalizcs)
 - **Nguyễn Duy Quân** - [Website](https://duyquanprofile.tk/) - [Facebook](https://www.facebook.com/duyquan.social)
 - **Phan Trần Anh Tâm** - [Facebook](https://www.facebook.com/100044315850653)
 
