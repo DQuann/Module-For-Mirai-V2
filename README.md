@@ -9,7 +9,7 @@
 
 # Modules For [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 - **Xài module xin đừng sửa credit của module - Hãy tôn trọng người làm ra nó!.**
-# Các thay đổi (Cập nhật: 14/09/2021)
+# Các thay đổi (Cập nhật: 02/10/2021) - Tue Dan awn khu
 
 <details>
 	<summary>Xem các thay đổi ( Nhớ xem phần dưới kia nữa nhé ! )</summary>
