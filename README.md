@@ -28,7 +28,7 @@
         <p>- 04/09/2021 - Update module Ig</p>
         <p>- 13/09/2021 - Update module Sao Hải Vương ( Up thiếu ).</p>
 	<p>- 15/09/2021 - Noti: Module Solar System có bản API và gộp nhưng vì lý do bị chôm credit nên không share nữa.</p>
-	<p>- 02/10/2021 - Noti: All bug fixed.</p>
+	<p>- 02/10/2021 - Noti: All bug fixed. :)</p>
 
 
 
